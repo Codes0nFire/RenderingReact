@@ -9,8 +9,8 @@ const submitHandler=()=>{
 }
 
   return (
-    <div className='flex items-center justify-center'>
-      <h1>Profile Page</h1>
+    <div className='flex text-white items-center justify-center'>
+      <h1 >Profile Page</h1>
 
       {/* <form action="">
       <button onClick={submitHandler} className='p-1 bg-black text-white text-sm rounded-md'>Home</button>
